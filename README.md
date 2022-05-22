@@ -1,0 +1,2 @@
+# alis
+ArchLinux Install Script
